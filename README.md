@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dragonflylee&row=1&column=10)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=dragonflylee&row=1&column=10)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonflylee&show_icons=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonflylee&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonflylee&hide=html,css&&langs_count=8&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonflylee&hide=html,css&&langs_count=8&layout=compact)
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=dragonflylee&limit=8&combine_all_yearly_contributions=true)
